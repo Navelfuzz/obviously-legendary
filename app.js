@@ -1,3 +1,5 @@
+'use strict';
+
 alert("Welcome to my page!");
 
 const usersName = promt("What is your name?");
