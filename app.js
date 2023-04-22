@@ -7,9 +7,9 @@ console.log(usersName);
 document.write("Hi " + usersName + " welcome to my page!");
 
 if (usersName == "Jonathon"){
-  document.write("Hey bossman");
+  alert("Hey bossman");
 } else if (usersName == "Kassie"){
-  document.write("Hey teach");
+  alert("Hey teach");
 } else {
-  document.write("Glad to have you here!");
+  alert("Glad to have you here!");
 }
